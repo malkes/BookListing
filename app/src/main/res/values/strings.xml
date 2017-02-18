@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookListing</string>
+    <string name="search_hint">Type a keyword to search</string>
+    <string name="loading_message">Fetching…</string>
+    <string name="error_message">No books found\nTry with another keyword</string>
+    <string name="no_internet_message">No internet connection available</string>
+    <string name="button_ok">OK</string>
+    <string name="no_internet_title">Warning</string>
+</resources>

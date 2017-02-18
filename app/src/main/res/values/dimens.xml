@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="book_cover_height">80dp</dimen>
+    <dimen name="book_cover_width">60dp</dimen>
+    <dimen name="book_item_padding">10dp</dimen>
+    <dimen name="book_cover_margin">10dp</dimen>
+    <dimen name="edit_search_margin">10dp</dimen>
+</resources>
