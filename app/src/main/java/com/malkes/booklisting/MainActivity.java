@@ -85,6 +85,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void showMessage(){
+        tvErrorMessage.setText(R.string.error_message);
+        tvErrorMessage.setCompoundDrawablesWithIntrinsicBounds(0,0,0,0);
         mListView.setVisibility(View.GONE);
         tvErrorMessage.setVisibility(View.VISIBLE);
     }

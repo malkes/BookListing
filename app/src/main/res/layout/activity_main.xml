@@ -23,10 +23,10 @@
         android:layout_height="match_parent">
 
         <TextView
-            android:visibility="gone"
+            android:drawableTop="@drawable/ic_list_black_48dp"
             android:id="@+id/tv_error_message"
             android:textStyle="bold"
-            android:text="@string/error_message"
+            android:text="@string/no_results"
             android:layout_margin="@dimen/edit_search_margin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
